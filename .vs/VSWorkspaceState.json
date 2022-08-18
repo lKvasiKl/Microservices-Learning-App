@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CommandsService"
   ],
+  "SelectedNode": "\\CommandsService\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
