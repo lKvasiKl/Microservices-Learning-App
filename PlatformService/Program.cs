@@ -16,6 +16,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+//Debuging
+Console.WriteLine($"--> CommandService Endpoint {builder.Configuration["CommandService"]}");
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -24,7 +27,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
