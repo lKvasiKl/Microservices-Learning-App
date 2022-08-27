@@ -34,3 +34,5 @@ D:\Microsoft Learn\Microservices\CommandsService\obj\Debug\net6.0\refint\Command
 D:\Microsoft Learn\Microservices\CommandsService\obj\Debug\net6.0\CommandsService.pdb
 D:\Microsoft Learn\Microservices\CommandsService\obj\Debug\net6.0\CommandsService.genruntimeconfig.cache
 D:\Microsoft Learn\Microservices\CommandsService\obj\Debug\net6.0\ref\CommandsService.dll
+D:\Microsoft Learn\Microservices\CommandsService\bin\Debug\net6.0\appsettings.Production.json
+D:\Microsoft Learn\Microservices\CommandsService\bin\Debug\net6.0\RabbitMQ.Client.dll
