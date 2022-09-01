@@ -64,3 +64,10 @@ D:\Microsoft Learn\Microservices\PlatformService\obj\Debug\net6.0\PlatformServic
 D:\Microsoft Learn\Microservices\PlatformService\obj\Debug\net6.0\ref\PlatformService.dll
 D:\Microsoft Learn\Microservices\PlatformService\bin\Debug\net6.0\appsettings.Production.json
 D:\Microsoft Learn\Microservices\PlatformService\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Microsoft Learn\Microservices\PlatformService\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Microsoft Learn\Microservices\PlatformService\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+D:\Microsoft Learn\Microservices\PlatformService\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Microsoft Learn\Microservices\PlatformService\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\Microsoft Learn\Microservices\PlatformService\bin\Debug\net6.0\Grpc.Net.Client.dll
+D:\Microsoft Learn\Microservices\PlatformService\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+D:\Microsoft Learn\Microservices\PlatformService\bin\Debug\net6.0\Grpc.Net.Common.dll
